@@ -32,6 +32,7 @@
   - 📄 [A. Puzzles.py](%21codeforces/A.%20Puzzles.py)
   - 📄 [A. Remove Smallest.py](%21codeforces/A.%20Remove%20Smallest.py)
   - 📄 [A. Simple Palindrome.py](%21codeforces/A.%20Simple%20Palindrome.py)
+  - 📄 [A. Soft Drinking.py](%21codeforces/A.%20Soft%20Drinking.py)
   - 📄 [A. Square Year.py](%21codeforces/A.%20Square%20Year.py)
   - 📄 [A. The New Year Meeting Friends.py](%21codeforces/A.%20The%20New%20Year%20Meeting%20Friends.py)
   - 📄 [A. Turtle and Good Strings.py](%21codeforces/A.%20Turtle%20and%20Good%20Strings.py)
