@@ -16,5 +16,5 @@ for _ in range(k):
                 board[nx][ny] += 1
 
 # แสดงผลลัพธ์
-for row in board:
-    print(''.join(str(cell) for cell in row))
+for x in board:
+    print(''.join(str(cell) for cell in x))
