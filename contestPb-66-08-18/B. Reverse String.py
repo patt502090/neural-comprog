@@ -45,7 +45,7 @@ if FunctinoType:
             for i in range(l - 1, -1, -1):
                 inv[i] = inv[i + 1] * (i + 1) % mod
 
-        def comb(self, n: int, r: int):  # (Combination) CNR เลขจัดหมู่
+        def comb(self, n: int, r: int):
             return (self.fact[n] * self.inv[r] %
                     self.mod * self.inv[n - r] %
                     self.mod if n >= r >= 0 else 0)
